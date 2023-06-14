@@ -13,14 +13,14 @@
   | Understable | The disc's tendency to turn to the right immediately after leaving the thrower's hand. |
 </details> 
 
-## Basic Throws 
+## **Basic Throws** 
 These are the two main types of throws which all other advanced techniques are based on. 
 ### Backhand 
 The disc is held in front of the player. When throwing, the disc moves across the body from left to right and is released when the arm is fully extended. The flight path starts straight or to the right, and finishes to the left. Like throwing a normal frisbee.
 ### Forehand 
 Also known as side arm, the disc is held out to the side of the player. When throwing, the disc moves forward in front of the player and is released when the wrist snaps forward and the arm is extended. The flight path starts straight or to the left, and finishes to the right. Like throwing a baseball.
   
-## Advanced Throws
+## **Advanced Throws**
 These techniques are used to maximize distance or follow a particular flight path, depending on the disc's characteristics. The following descriptions assume the player is using a backhand throw. For a forehand throw, the flight path finishes to the right where a backhand throw would be to the left. 
 ### Hyzer Flip
 - Disc stability: Understable
@@ -49,7 +49,7 @@ Once thrown, the initial anhyzer angle forces the disc to immediately start a fl
 Thrown more to the left, the disc's understability naturally turns the flight path to the right. The flight path finishes to the right. Unlike an Anhyzer shot, the disc always lands flat and has little movement on the ground.
 
 
-## Utility Throws
+## **Utility Throws**
 These techniques are used for getting around obstacles or when a normal, unobstructed flight path is not possible. For consistent results, these are usually thrown with overstable drivers. 
 ### Spike Hyzer
 Like a normal backhand throw, except the hyzer angle is extreme - anywhere from 45 degrees to completely vertical. The disc is thrown more upwards and is meant to get over trees or tall bushes. The flight path finishes slightly to the left.
