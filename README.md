@@ -56,6 +56,6 @@ Like a normal backhand throw, except the hyzer angle is extreme - anywhere from 
 ### Grenade
 Identical to the Spike Hyzer, but the disc is held upside down. The flight path finishes ***straight***.
 ### Tomahawk
-Like a normal forehand throw, except released overhead. The disc is thrown forward up to about 45 degrees and is meant to fit through small gaps. The flight path finishes slightly to the ***left***
+Like a normal forehand throw, except released overhead. The disc is thrown forward up to about 45 degrees and is meant to fit through small gaps. The flight path finishes slightly to the ***left***.
 ### Thumber
 Identical to the Tomahawk, but the disc is facing outward ("upsidedown"). Unlike a normal forehand grip, the thumb is placed on the inside rim and the side of the index finger pinches the disc tight. The flight path finishes slightly to the ***right***. 
