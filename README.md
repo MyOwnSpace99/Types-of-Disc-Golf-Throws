@@ -16,12 +16,12 @@
 ## Basic Throws 
 These are the two main types of throws which all other advanced techniques are based on. 
 ### Backhand 
-The disc is held in front of the player. When throwing, the disc moves across the body from left to right and is released when the arm is fully extended. The flight path starts straight or to the right, and will finish to the left. Like throwing a normal frisbee.
+The disc is held in front of the player. When throwing, the disc moves across the body from left to right and is released when the arm is fully extended. The flight path starts straight or to the right, and finishes to the left. Like throwing a normal frisbee.
 ### Forehand 
-Also known as side arm, the disc is held out to the side of the player. When throwing, the disc moves forward in front of the player and is released when the arm is fully extended. The flight path starts straight or to the left, and will finish to the right. Like throwing a baseball.
+Also known as side arm, the disc is held out to the side of the player. When throwing, the disc moves forward in front of the player and is released when the wrist snaps forward and the arm is extended. The flight path starts straight or to the left, and finishes to the right. Like throwing a baseball.
   
 ## Advanced Throws
-These techniques are used to maximize distance or follow a particular flight path, depending on the disc's characteristics. The following descriptions assume the player is using a backhand throw. For a forehand throw, the flight path finish will be to the right where a backhand throw would be to the left. 
+These techniques are used to maximize distance or follow a particular flight path, depending on the disc's characteristics. The following descriptions assume the player is using a backhand throw. For a forehand throw, the flight path finishes to the right where a backhand throw would be to the left. 
 ### Hyzer Flip
 - Disc stability: Understable
 - Disc release angle: Hyzer
