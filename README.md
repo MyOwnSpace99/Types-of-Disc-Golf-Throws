@@ -18,14 +18,14 @@ These are the two main types of throws which all other advanced techniques are b
 ### Backhand 
 The disc is held in front of the player. When throwing, the disc moves across the body from left to right and is released when the arm is fully extended. The flight path starts straight or to the right, and finishes to the ***left***. Like throwing a normal frisbee. 
 
-<img src="https://github.com/MyOwnSpace99/Types-of-Disc-Golf-Throws/assets/131144836/6f9db251-a0c7-45a5-a3cd-8c32240e5f9b" width="300">
-<img src="https://github.com/MyOwnSpace99/Types-of-Disc-Golf-Throws/assets/131144836/5b68b37c-6504-425e-a849-d2cec46bcd31" width="250">
+<img align="center" src="https://github.com/MyOwnSpace99/Types-of-Disc-Golf-Throws/assets/131144836/6f9db251-a0c7-45a5-a3cd-8c32240e5f9b" width="300">
+<img align="center" src="https://github.com/MyOwnSpace99/Types-of-Disc-Golf-Throws/assets/131144836/5b68b37c-6504-425e-a849-d2cec46bcd31" width="250">
 
 ### Forehand 
 Also known as side arm, the disc is held out to the side of the player. When throwing, the disc moves forward in front of the player and is released when the wrist snaps forward and the arm is extended. The flight path starts straight or to the left, and finishes to the ***right***. Like throwing a baseball.
 
-<img src="https://github.com/MyOwnSpace99/Types-of-Disc-Golf-Throws/assets/131144836/6f9db251-a0c7-45a5-a3cd-8c32240e5f9b" width="300">
-<img src="https://github.com/MyOwnSpace99/Types-of-Disc-Golf-Throws/assets/131144836/c1e2c876-5707-4260-b307-c7c94ebe5942" width="250">
+<img src="https://github.com/MyOwnSpace99/Types-of-Disc-Golf-Throws/assets/131144836/6f9db251-a0c7-45a5-a3cd-8c32240e5f9b" align="center" width="300">
+<img src="https://github.com/MyOwnSpace99/Types-of-Disc-Golf-Throws/assets/131144836/c1e2c876-5707-4260-b307-c7c94ebe5942" align="center" width="250">
   
 ## **Advanced Throws**
 These techniques are used to maximize distance or follow a particular flight path, depending on the disc's characteristics. The following descriptions assume the player is using a backhand throw. For a forehand throw, the flight path finishes to the right where a backhand throw would be to the left. 
